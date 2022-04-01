@@ -1,8 +1,8 @@
 # LXGW Bright
 
-LXGW Bright 是由 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite) 合并而成的字体，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
+LXGW Bright 是由 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
 
-*~~为什么要选择轻便版呢？因为完整版的一些字太粗糙了，而且谚文也比较拙劣……~~*
+*~~为什么要选择轻便版呢？因为完整版 AI 生成的一些字太粗糙了，而且谚文也比较拙劣……~~*
 
 ## 字体预览
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-1.png)
@@ -24,3 +24,6 @@ LXGW Bright 是由 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) �
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+
+## 使用本字体的实例
+- [「纯纯写作」应用默认字体](https://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter&channel=0002160650432d595942&fromcase=60001)
