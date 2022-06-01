@@ -1,5 +1,8 @@
 # LXGW Bright
 
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwBright?style=flat-square)](https://github.com/lxgw/LxgwWenKai)
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwBright?style=flat-square)](https://github.com/lxgw/LxgwWenKai/releases)
+
 LXGW Bright 是由 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
 
 *为什么要选择轻便版呢？因为完整版 AI 生成的一些字太粗糙了，而且谚文也比较拙劣……*
