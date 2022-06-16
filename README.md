@@ -3,9 +3,11 @@
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwBright)](https://github.com/lxgw/LxgwWenKai)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwBright)](https://github.com/lxgw/LxgwWenKai/releases)
 
-LXGW Bright 是由 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
+LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
 
-*为什么要选择轻便版呢？因为完整版 AI 生成的一些字太粗糙了，而且谚文也比较拙劣……*
+提供两种字形版本：
+- **简中字形版 LXGW Bright：** Ysabeau Office + [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
+- **传承字形版 LXGW Bright Classic：** Ysabeau + [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
 
 ## 字体预览
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-1.png)
