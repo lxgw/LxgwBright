@@ -6,10 +6,12 @@
 LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
 
 提供两种字形版本：
-- **简中字形版 LXGW Bright：** Ysabeau Office + [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
+
+- **半陆标字形版 LXGW Bright：** Ysabeau Office + [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - **传承字形版 LXGW Bright Classic：** Ysabeau + [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
 
 ## 字体预览
+
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-1.png)
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-2.png)
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-3.png)
@@ -31,4 +33,5 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
 
 ## 使用本字体的实例
+
 - [「纯纯写作」应用默认字体](https://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter&channel=0002160650432d595942&fromcase=60001)
