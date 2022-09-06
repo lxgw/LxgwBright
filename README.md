@@ -1,3 +1,6 @@
+
+> 公告：本字体稍后将会调整为 SC、TC、GB 共 3 个字形版本，并统一使用 Ysabeau Office 作为西文字体，版本号也将修改为 Ysabeau、文楷 SC、文楷 TC、文楷 GB 四个字体版本号的总和。
+
 # LXGW Bright
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwBright)](https://github.com/lxgw/LxgwBright)
