@@ -11,7 +11,7 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 - **LXGW Bright GB**：采用 [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB) 的陆标规范字形，缺字用 [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenkai-Lite) 增补；
 - **LXGW Bright TC**：采用 [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 的传承字形。
 
-三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。Ysabeau 的 Old-style 数字不太适合与汉字混排；Ysabeau Infant 更偏向手写体，而本字体侧重于印刷*（或许 Ysabeau Infant 适合搭配文楷 GB 版）*。
+三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。Ysabeau 的 Old-style 数字不太适合与汉字混排；Ysabeau Infant 更偏向手写体，而本字体侧重于印刷 ~~*（或许 Ysabeau Infant 适合搭配文楷 GB 版）*~~ 。
 
 ## 字体预览
 
