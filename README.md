@@ -3,7 +3,7 @@
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwBright)](https://github.com/lxgw/LxgwBright)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwBright)](https://github.com/lxgw/LxgwBright/releases)
 
-LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
+LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 四种格式。
 
 提供三种字形版本：
 
@@ -11,13 +11,15 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 - **LXGW Bright GB**：采用 [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB) 的陆标字形规范字形，缺字用 [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenkai-Lite) 增补；
 - **LXGW Bright TC**：采用 [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 的传承字形。
 
-三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。
+三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。*（Ysabeau 的 Old-style 数字不太适合与汉字混排，Ysabeau Infant 更偏向手写体。）*
 
 ## 字体预览
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-1.png)
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-2.png)
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-3.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-4.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-5.png)
 
 ## 字体授权
 
