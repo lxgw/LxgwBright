@@ -1,6 +1,3 @@
-
-> 公告：本字体稍后将会调整为 SC、TC、GB 共 3 个字形版本，并统一使用 Ysabeau Office 作为西文字体，版本号也将修改为 Ysabeau、文楷 SC、文楷 TC、文楷 GB 四个字体版本号的总和。
-
 # LXGW Bright
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwBright)](https://github.com/lxgw/LxgwBright)
@@ -8,10 +5,13 @@
 
 LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 格式。
 
-提供两种字形版本：
+提供三种字形版本：
 
-- **半陆标字形版 LXGW Bright：** Ysabeau Office + [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
-- **传承字形版 LXGW Bright Classic：** Ysabeau + [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
+- **LXGW Bright**：采用 [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenkai-Lite) 的半陆标字形，保留直点、断笔等印刷体特征；
+- **LXGW Bright GB**：采用 [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB) 的陆标字形规范字形，缺字用 [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenkai-Lite) 增补；
+- **LXGW Bright TC**：采用 [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 的传承字形。
+
+三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。
 
 ## 字体预览
 
