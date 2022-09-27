@@ -1,3 +1,5 @@
+> ㊟ 本字体不适用于竖向排版。
+
 # LXGW Bright
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwBright)](https://github.com/lxgw/LxgwBright)
