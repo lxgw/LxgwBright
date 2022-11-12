@@ -1,11 +1,11 @@
-> ㊟ 本字体不适用于竖向排版。
+> ㊟ 本字体不适用于竖向排版。本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai)更新后 96 小时内更新。
 
 # LXGW Bright
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwBright)](https://github.com/lxgw/LxgwBright)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwBright)](https://github.com/lxgw/LxgwBright/releases)
 
-LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 四种格式。本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai)更新后 96 小时内更新。
+LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 OpenType 格式（PostScript 曲线格式）、TrueType 格式以及 WOFF 和 WOFF2 四种格式。
 
 提供三种字形版本：
 
