@@ -19,7 +19,7 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 
 进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。Release 版本号为 Ysabeau Office 与霞鹜文楷 Lite、GB、TC 四个字体版本号的总和。
 
-Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg9g) 下载，将在本项目更新后 96 小时内更新。
+Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg9g) 下载，将在本项目更新后 48 小时内更新。
 
 ## 字体预览
 
