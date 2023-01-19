@@ -15,6 +15,12 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 
 三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。Ysabeau 的 Old-style 数字不太适合与汉字混排；Ysabeau Infant 更偏向手写体，而本字体侧重于印刷 ~~*（或许 Ysabeau Infant 适合搭配文楷 GB 版）*~~ 。
 
+## 获取字体
+
+进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。Release 版本号为 Ysabeau Office 与霞鹜文楷 Lite、GB、TC 四个字体版本号的总和。
+
+Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg9g) 下载，将在本项目更新后 48 小时内更新。
+
 ## 字体预览
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-1.png)
