@@ -42,7 +42,6 @@ Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
-- 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
 
 ## 使用本字体的实例
