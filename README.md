@@ -48,3 +48,8 @@ Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg
 ## 使用本字体的实例
 
 - [「纯纯写作」应用默认字体](https://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter&channel=0002160650432d595942&fromcase=60001)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/LxgwBright.svg)](https://starchart.cc/lxgw/LxgwBright)
+
