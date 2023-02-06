@@ -13,7 +13,7 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 - **LXGW Bright GB**：采用 [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB) 的陆标规范字形，缺字用 [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenkai-Lite) 增补；
 - **LXGW Bright TC**：采用 [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 的传承字形。
 
-三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。Ysabeau 的 Old-style 数字不太适合与汉字混排；Ysabeau Infant 更偏向手写体，而本字体侧重于印刷 ~~*（或许 Ysabeau Infant 适合搭配文楷 GB 版）*~~ 。
+三种字形版本统一采用 **Ysabeau Office** 作为西文部分字体。Ysabeau 的 Old-style 数字不太适合与汉字混排；Ysabeau Infant 更偏向手写体，而本字体侧重于印刷 ~~*（或许 Ysabeau Infant 适合搭配文楷 GB 版和芫荽）*~~ 。
 
 ## 获取字体
 
@@ -42,9 +42,13 @@ Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
-- 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
 
 ## 使用本字体的实例
 
 - [「纯纯写作」应用默认字体](https://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter&channel=0002160650432d595942&fromcase=60001)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/LxgwBright.svg)](https://starchart.cc/lxgw/LxgwBright)
+
