@@ -33,6 +33,8 @@ Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg
 
 本字体根据 SIL Open Font License 1.1 授权许可发行，基于 [Klee](https://github.com/fontworks-fonts/Klee)、[霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 及 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 开源项目制作。
 
+> [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
+
 ### 许可
 
 - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
