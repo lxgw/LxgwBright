@@ -17,7 +17,7 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 
 ## 获取字体
 
-进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。Release 版本号为 Ysabeau Office 与「霞鹜文楷」版本号的总和再加 2。
+进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。Release 版本号为 Ysabeau Office 与「霞鹜文楷」版本号的总和再加 2（由于「霞鹜文楷 GB」「霞鹜文楷 TC」与「霞鹜文楷 Lite」同期更新，故文楷 TC、GB 的版本号不再计入）。
 
 Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg9g) 下载，将在本项目更新后 48 小时内更新。
 
