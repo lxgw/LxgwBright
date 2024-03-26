@@ -1,5 +1,4 @@
 > ㊟ 本字体不适用于竖向排版。本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后 96 小时内更新。
-> 　 本字体**不会提供**等宽版。
 
 # LXGW Bright
 
