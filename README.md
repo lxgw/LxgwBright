@@ -1,4 +1,4 @@
->[!NOTE]
+>[!IMPORTANT]
 > - 本字体不适用于竖向排版。
 > - 本字体**无计划**制作等宽（monospaced）版本。
 > - 本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后 96 小时内更新。
