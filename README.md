@@ -1,8 +1,8 @@
 >[!IMPORTANT]
-> - 本字体不适用于竖向排版。
-> - 本字体**无计划**制作等宽（monospaced）版本。
+> - 本字体**不适用于**竖向排版。
+> - 本字体**没有计划**制作等宽（monospaced）版本。
 > - 本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后 96 小时内更新。
-> - 自 v5.330 起，不再提供 OTF 版。
+> - 自 v5.330 起，**不再提供** OTF 版。
 
 # LXGW Bright
 
