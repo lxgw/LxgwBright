@@ -1,6 +1,6 @@
 >[!IMPORTANT]
 > - 本字体**不适用于**竖向排版。
-> - 对于等宽（monospaced）版本，拟搭配 [Monaspace Argon](https://github.com/githubnext/monaspace)，命名 **LXGW Bright Code**。该项目独立于 LXGW Bright，目前仍在征求意见中，可进入 [LXGW Bright Code(https://github.com/lxgw/LxgwBright-Code) 项目专页]了解。
+> - 对于等宽（monospaced）版本，拟搭配 [Monaspace Argon](https://github.com/githubnext/monaspace)，命名 **LXGW Bright Code**。该项目独立于 LXGW Bright，目前仍在征求意见中，可进入 [LXGW Bright Code 项目专页](https://github.com/lxgw/LxgwBright-Code)了解。
 > - 本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后一周之内更新。
 > - 由于 OTF 版本渲染存在问题，自 v5.330 起，**不再提供** OTF 版。
 > - 为便于 APP 嵌入，且又因为完整版文楷包含大量由 AI 生成的粗糙字形，不提供「完整版」。
