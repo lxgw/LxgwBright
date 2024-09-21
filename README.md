@@ -2,7 +2,7 @@
 > - 本字体**不适用于**竖向排版。
 > - 对于等宽（monospaced）版本，拟搭配 [Monaspace Argon](https://github.com/githubnext/monaspace)，目前仍在征求意见中。
 > - 本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后一周之内更新。
-> - 由于 OTF 版本渲染存在问题，自 v5.330 起，**不再提供** OTF 版。>
+> - 由于 OTF 版本渲染存在问题，自 v5.330 起，**不再提供** OTF 版。
 
 # LXGW Bright
 
