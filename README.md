@@ -23,7 +23,7 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 
 ### 字重对应情况
 
-LXGW Bright 的字重设置以 Ysabeau Office 为准。
+LXGW Bright 的字重设置以 Ysabeau Office 为准，与「霞鹜文楷」不完全相同。
 
 | Ysabeau Office | 霞鹜文楷 | LXGW Bright |
 | -------------- | -------- | ----------- |
