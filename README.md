@@ -3,6 +3,7 @@
 > - 对于等宽（monospaced）版本，拟搭配 [Monaspace Argon](https://github.com/githubnext/monaspace)，目前仍在征求意见中。
 > - 本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后一周之内更新。
 > - 由于 OTF 版本渲染存在问题，自 v5.330 起，**不再提供** OTF 版。
+> - 为便于 APP 嵌入，且又因为完整版文楷包含大量由 AI 生成的粗糙字形，因此不提供「完整版」。
 
 # LXGW Bright
 
@@ -31,12 +32,6 @@ LXGW Bright 的字重设置以 Ysabeau Office 为准，与「霞鹜文楷」不�
 | Regular        | Regular  | Regular     |
 | Medium         | Bold     | Medium      |
 
-## 获取字体
-
-进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。Release 版本号为 Ysabeau Office 与「霞鹜文楷」版本号的总和再加 2（由于「霞鹜文楷 GB」「霞鹜文楷 TC」与「霞鹜文楷 Lite」同期更新，故文楷 TC、GB 的版本号不再计入）。
-
-Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg9g) 下载，将在本项目更新后 48 小时内更新。
-
 ## 字体预览
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-1.png)
@@ -44,6 +39,12 @@ Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-3.png)
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-4.png)
 ![](https://raw.githubusercontent.com/lxgw/LxgwBright/main/images/preview-5.png)
+
+## 获取字体
+
+进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。Release 版本号为 Ysabeau Office 与「霞鹜文楷」版本号的总和再加 2（由于「霞鹜文楷 GB」「霞鹜文楷 TC」与「霞鹜文楷 Lite」同期更新，故文楷 TC、GB 的版本号不再计入）。
+
+Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg9g) 下载，将在本项目更新后 48 小时内更新。
 
 ## 字体授权
 
