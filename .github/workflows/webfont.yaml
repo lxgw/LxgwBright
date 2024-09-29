@@ -1,0 +1,34 @@
+name: Build webfonts
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "版本号，格式vX.XXX"
+        required: true
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env: 
+      VERSION_TAG: ${{ inputs.version }}
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+    - name: Install deps
+      run: |
+        pip install fonttools brotli
+    
+    - name: Build font
+      run: python .github/workflows/zip_webfonts.py
+
+    # Recording files
+    - name: Commit fonts
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Update ${{ env.VERSION_TAG }}
+        file_pattern: 'LXGW*/*.woff LXGW*/*.woff2'

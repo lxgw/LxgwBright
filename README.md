@@ -12,7 +12,7 @@
 
 ## 字体简介
 
-LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 ~~OpenType 格式（PostScript 曲线格式）~~、TrueType 格式以及 WOFF 和 WOFF2 四种格式。
+LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体，采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。包含 TrueType 格式以及 WOFF2 格式。
 
 提供三种字形版本：
 
@@ -24,13 +24,13 @@ LXGW Bright 是由 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysab
 
 ### 字重对应情况
 
-LXGW Bright 的字重设置以 Ysabeau Office 为准，与「霞鹜文楷」不完全相同。
+LXGW Bright 的字重设置以 Ysabeau Office 为准，与「霞鹜文楷」一致。
 
-| Ysabeau Office | 霞鹜文楷 | LXGW Bright   |
-| -------------- | -------- | ------------- |
-| SemiLight      | Light    | **SemiLight** |
-| Regular        | Regular  | **Regular**   |
-| Medium         | Bold     | **Medium**    |
+| Ysabeau Office | 霞鹜文楷 | LXGW Bright |
+| -------------- | -------- | ----------- |
+| Light          | Light    | **Light**   |
+| Regular        | Regular  | **Regular** |
+| Medium         | Medium   | **Medium**  |
 
 ## 字体预览
 
@@ -42,7 +42,7 @@ LXGW Bright 的字重设置以 Ysabeau Office 为准，与「霞鹜文楷」不�
 
 ## 获取字体
 
-进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。Release 版本号为 Ysabeau Office 与「霞鹜文楷」版本号的总和再加 2（由于「霞鹜文楷 GB」「霞鹜文楷 TC」与「霞鹜文楷 Lite」同期更新，故文楷 TC、GB 的版本号不再计入）。
+进入 [Releases](https://github.com/lxgw/LxgwBright/releases) 界面下载。一般情况下，Release 版本号为 Ysabeau Office 与「霞鹜文楷」版本号的总和再加 2（由于「霞鹜文楷 GB」「霞鹜文楷 TC」与「霞鹜文楷 Lite」同期更新，故文楷 TC、GB 的版本号不再计入）。
 
 Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg9g) 下载，将在本项目更新后 48 小时内更新。
 
