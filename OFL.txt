@@ -1,4 +1,4 @@
-Copyright 2022-2023 LXGW (https://github.com/lxgw/LxgwBright)
+Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwBright)
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
 Copyright 2023 The Ysabeau Project Authors (https://github.com/CatharsisFonts/Ysabeau)
 
