@@ -1,6 +1,6 @@
 >[!IMPORTANT]
 > - 本字体**不适用于**竖向排版。
-> - 对于等宽（monospaced）版本，拟搭配 [Monaspace Argon](https://github.com/githubnext/monaspace)，命名 **LXGW Bright Code**。该项目独立于 LXGW Bright，目前仍在征求意见中，可进入 [LXGW Bright Code 项目专页](https://github.com/lxgw/LxgwBright-Code)了解。
+> - 对于等宽（monospaced）版本，拟搭配 [Monaspace Argon](https://github.com/githubnext/monaspace)，命名 **LXGW Bright Code**。可进入 [LXGW Bright Code 项目专页](https://github.com/lxgw/LxgwBright-Code)了解。
 > - 本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后一个月之内更新。
 > - 由于 OTF 版本渲染存在问题，自 v5.330 起，**不再提供** OTF 版。
 > - 为便于 APP 嵌入，且又因为完整版文楷包含大量由 AI 生成的粗糙字形，所以不提供「完整版」。
@@ -61,7 +61,7 @@ Magisk 模块请在[蓝奏云（密码 4dqt）](https://lxgw.lanzoum.com/b0ct7rg
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
-- 根据 [SIL Open Font License 1.1](https://openfontlicense.org) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 [SIL Open Font License 1.1](https://openfontlicense.org) 的规定， **禁止单独出售字体文件（OTF/TTF 文件）的行为。**
 - 该字体不得在 SIL OFL 1.1 以外的其他授权许可下发行。
 
 ## 使用本字体的实例
