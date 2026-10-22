@@ -1,5 +1,5 @@
 >[!IMPORTANT]
-> - 本字体**不适用于**竖向排版。
+> - 由于合并字体过程中以西文部分的 OpenType 特性为准，中文部分的 OpenType 特性被覆盖，本字体**不适用于**竖向排版，原《霞鹜文楷》支持的其他 OpenType 特性在本字体中均不支持。
 > - 对于等宽（monospaced）版本，拟搭配 [Monaspace Argon](https://github.com/githubnext/monaspace)，命名 **LXGW Bright Code**。可进入 [LXGW Bright Code 项目专页](https://github.com/lxgw/LxgwBright-Code)了解。
 > - 本项目会在[霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) Release 更新后一个月之内更新。
 > - 由于 OTF 版本渲染存在问题，自 v5.330 起，**不再提供** OTF 版。
